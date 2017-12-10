@@ -1,0 +1,45 @@
+header {
+  color:white;
+  background-color: black;
+  text-align: center;
+  font-size: 36px;
+  font-family: "indie flower";
+}
+
+body {
+  background-color: #A6FFA9
+}
+
+nav li {
+  display: inline-block;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #E8AF0C;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  font-family: "indie flower";
+  font-weight: bold;
+  color: #FFD7A6;
+  font-size: 20px;
+}
+
+img {
+  margin: auto;
+  width: 60%;
+  height: 10%;
+}
+
+#banner {
+  width: 100%;
+}
+
+footer {
+  background: #11FFE1;
+  width:100%;
+}
